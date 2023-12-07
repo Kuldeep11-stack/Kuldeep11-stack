@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuldeep11-stack&theme=algolia&show_icons=true&locale=en" alt="kuldeep11-stack" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuldeep11-stack&theme=algolia&" alt="kuldeep11-stack" /></p>
+
+[![An image of @kuldeep11stack's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kuldeep11stack)](https://holopin.io/@kuldeep11stack)
